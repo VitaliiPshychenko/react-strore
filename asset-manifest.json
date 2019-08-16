@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-strore/static/css/main.fd9339b7.chunk.css",
-    "main.js": "/react-strore/static/js/main.6ae809b4.chunk.js",
-    "main.js.map": "/react-strore/static/js/main.6ae809b4.chunk.js.map",
+    "main.js": "/react-strore/static/js/main.8ec697ec.chunk.js",
+    "main.js.map": "/react-strore/static/js/main.8ec697ec.chunk.js.map",
     "runtime~main.js": "/react-strore/static/js/runtime~main.9fe2f8df.js",
     "runtime~main.js.map": "/react-strore/static/js/runtime~main.9fe2f8df.js.map",
-    "static/js/2.a8f499cc.chunk.js": "/react-strore/static/js/2.a8f499cc.chunk.js",
-    "static/js/2.a8f499cc.chunk.js.map": "/react-strore/static/js/2.a8f499cc.chunk.js.map",
+    "static/js/2.58dab8fb.chunk.js": "/react-strore/static/js/2.58dab8fb.chunk.js",
+    "static/js/2.58dab8fb.chunk.js.map": "/react-strore/static/js/2.58dab8fb.chunk.js.map",
     "index.html": "/react-strore/index.html",
-    "precache-manifest.1d52bb54c33e5888715a475306fe192e.js": "/react-strore/precache-manifest.1d52bb54c33e5888715a475306fe192e.js",
+    "precache-manifest.c048910fa86423ef6b72ebaa5faab454.js": "/react-strore/precache-manifest.c048910fa86423ef6b72ebaa5faab454.js",
     "service-worker.js": "/react-strore/service-worker.js",
     "static/css/main.fd9339b7.chunk.css.map": "/react-strore/static/css/main.fd9339b7.chunk.css.map"
   }
