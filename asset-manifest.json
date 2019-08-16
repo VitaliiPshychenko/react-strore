@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-strore/static/css/main.fd9339b7.chunk.css",
+    "main.js": "/react-strore/static/js/main.cb983cff.chunk.js",
+    "main.js.map": "/react-strore/static/js/main.cb983cff.chunk.js.map",
+    "runtime~main.js": "/react-strore/static/js/runtime~main.9fe2f8df.js",
+    "runtime~main.js.map": "/react-strore/static/js/runtime~main.9fe2f8df.js.map",
+    "static/js/2.deb7ce69.chunk.js": "/react-strore/static/js/2.deb7ce69.chunk.js",
+    "static/js/2.deb7ce69.chunk.js.map": "/react-strore/static/js/2.deb7ce69.chunk.js.map",
+    "index.html": "/react-strore/index.html",
+    "precache-manifest.9b2c54281001d74f01e78879bfa6afb9.js": "/react-strore/precache-manifest.9b2c54281001d74f01e78879bfa6afb9.js",
+    "service-worker.js": "/react-strore/service-worker.js",
+    "static/css/main.fd9339b7.chunk.css.map": "/react-strore/static/css/main.fd9339b7.chunk.css.map"
+  }
+}
