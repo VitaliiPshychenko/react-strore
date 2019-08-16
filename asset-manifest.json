@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-strore/static/css/main.fd9339b7.chunk.css",
-    "main.js": "/react-strore/static/js/main.a0cb610c.chunk.js",
-    "main.js.map": "/react-strore/static/js/main.a0cb610c.chunk.js.map",
+    "main.js": "/react-strore/static/js/main.6ae809b4.chunk.js",
+    "main.js.map": "/react-strore/static/js/main.6ae809b4.chunk.js.map",
     "runtime~main.js": "/react-strore/static/js/runtime~main.9fe2f8df.js",
     "runtime~main.js.map": "/react-strore/static/js/runtime~main.9fe2f8df.js.map",
     "static/js/2.a8f499cc.chunk.js": "/react-strore/static/js/2.a8f499cc.chunk.js",
     "static/js/2.a8f499cc.chunk.js.map": "/react-strore/static/js/2.a8f499cc.chunk.js.map",
     "index.html": "/react-strore/index.html",
-    "precache-manifest.5f15b41630998cd87061b6ebfea50b79.js": "/react-strore/precache-manifest.5f15b41630998cd87061b6ebfea50b79.js",
+    "precache-manifest.1d52bb54c33e5888715a475306fe192e.js": "/react-strore/precache-manifest.1d52bb54c33e5888715a475306fe192e.js",
     "service-worker.js": "/react-strore/service-worker.js",
     "static/css/main.fd9339b7.chunk.css.map": "/react-strore/static/css/main.fd9339b7.chunk.css.map"
   }

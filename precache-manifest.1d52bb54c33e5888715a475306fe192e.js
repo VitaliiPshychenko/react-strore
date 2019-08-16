@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "08ae0c650c5248a3a97610571f9dc9e0",
+    "revision": "55aa3c1f3a94717a2c621f3bc348b5dd",
     "url": "/react-strore/index.html"
   },
   {
-    "revision": "88aaeaf907fa4fefb0a6",
+    "revision": "8d71fd83109e4a0ffca6",
     "url": "/react-strore/static/css/main.fd9339b7.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-strore/static/js/2.a8f499cc.chunk.js"
   },
   {
-    "revision": "88aaeaf907fa4fefb0a6",
-    "url": "/react-strore/static/js/main.a0cb610c.chunk.js"
+    "revision": "8d71fd83109e4a0ffca6",
+    "url": "/react-strore/static/js/main.6ae809b4.chunk.js"
   },
   {
     "revision": "19d7bb77eeaeab622c62",
