@@ -1,13 +1,10 @@
 import React from 'react';
 import { Card, Button, Container, ListGroup, Col } from 'react-bootstrap';
-import Header from './Header';
 
 const ProductsPage = props => {
   const { products, onAddedToCart } = props;
   return (
     <Container>
-      <Header />
-
       <ListGroup className="flex-row flex-wrap">
         {products.map(product => {
           const { title, price, description, id } = product;

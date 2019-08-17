@@ -1,7 +1,5 @@
 import React from 'react';
 import { Table, Container, Button } from 'react-bootstrap';
-import { Link } from 'react-router-dom';
-import Header from './Header';
 
 const CartPage = props => {
   const { cartItems, onIncrease, onDecrease, onRemove } = props;
@@ -11,12 +9,6 @@ const CartPage = props => {
 
   return (
     <Container>
-      <Header />
-      <Button variant="primary" className="mb-2">
-        <Link className="home-btn" to="/">
-          Back to main page
-        </Link>
-      </Button>
       <Table striped bordered hover>
         <thead>
           <tr>

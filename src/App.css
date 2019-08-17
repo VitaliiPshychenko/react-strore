@@ -4,15 +4,29 @@ body {
   padding: 0;
 }
 
+.home-title {
+  text-align: center;
+  margin-top: 100px;
+  font-size: 40px;
+}
+
 .cart {
   background: url('./cart.png') no-repeat center/cover;
   display: inline-block;
   height: 50px;
+  margin-left: 20px;
   width: 50px;
 }
 
 .home-btn,
-.home-btn:hover {
-  color: #fff;
+.logo,
+.logo:hover {
+  color: #000;
   text-decoration: none;
+}
+
+.main-nav {
+  display: flex;
+  align-items: center;
+  margin: 0 10px;
 }
