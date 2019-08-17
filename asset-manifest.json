@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-strore/home/static/css/main.fd9339b7.chunk.css",
-    "main.js": "/react-strore/home/static/js/main.170877b9.chunk.js",
-    "main.js.map": "/react-strore/home/static/js/main.170877b9.chunk.js.map",
+    "main.css": "/react-strore/home/static/css/main.3732f95c.chunk.css",
+    "main.js": "/react-strore/home/static/js/main.d5c800ff.chunk.js",
+    "main.js.map": "/react-strore/home/static/js/main.d5c800ff.chunk.js.map",
     "runtime~main.js": "/react-strore/home/static/js/runtime~main.6dbcdec6.js",
     "runtime~main.js.map": "/react-strore/home/static/js/runtime~main.6dbcdec6.js.map",
-    "static/js/2.58dab8fb.chunk.js": "/react-strore/home/static/js/2.58dab8fb.chunk.js",
-    "static/js/2.58dab8fb.chunk.js.map": "/react-strore/home/static/js/2.58dab8fb.chunk.js.map",
+    "static/js/2.d4c17ee3.chunk.js": "/react-strore/home/static/js/2.d4c17ee3.chunk.js",
+    "static/js/2.d4c17ee3.chunk.js.map": "/react-strore/home/static/js/2.d4c17ee3.chunk.js.map",
     "index.html": "/react-strore/home/index.html",
-    "precache-manifest.ce7d8b75d9a5f748d598e6dba4bc59e5.js": "/react-strore/home/precache-manifest.ce7d8b75d9a5f748d598e6dba4bc59e5.js",
+    "precache-manifest.83704946243babe4a4461e68b44b66f8.js": "/react-strore/home/precache-manifest.83704946243babe4a4461e68b44b66f8.js",
     "service-worker.js": "/react-strore/home/service-worker.js",
-    "static/css/main.fd9339b7.chunk.css.map": "/react-strore/home/static/css/main.fd9339b7.chunk.css.map"
+    "static/css/main.3732f95c.chunk.css.map": "/react-strore/home/static/css/main.3732f95c.chunk.css.map"
   }
 }
